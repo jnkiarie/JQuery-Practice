@@ -1,3 +1,14 @@
 img {
+    size: 10px;
+    animation: cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.cow-showing {
     display: none;
+}
+.clickable{
+    cursor: pointer;
+    color: rgb(100, 0, 0);
+}
+.clickable:hover{
+    text-decoration: underline;
 }
