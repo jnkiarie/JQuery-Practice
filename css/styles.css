@@ -1,14 +1,22 @@
-img {
-    size: 10px;
-    animation: cubic-bezier(0.165, 0.84, 0.44, 1);
+img{
+    float: left;
 }
 .cow-showing {
     display: none;
 }
 .clickable{
     cursor: pointer;
-    color: rgb(100, 0, 0);
+    color: rgb(84, 180, 92);
 }
 .clickable:hover{
     text-decoration: underline;
+}
+.greenb{
+    background-color: darkgreen;
+}
+.redb{
+    background-color: red;
+}
+.yellowb{
+    background-color: yellow;
 }
