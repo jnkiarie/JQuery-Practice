@@ -20,3 +20,9 @@ img{
 .yellowb{
     background-color: yellow;
 }
+body{
+    background-color: tomato;
+}
+#story{
+    display: none;
+}

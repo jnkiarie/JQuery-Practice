@@ -22,10 +22,5 @@ $(document).ready(function () {
         $('.cow-hidden').fadeToggle();
         $('.cow').fadeToggle();
     });
-
-    // Button Scripts
-    $('button').click(function () {
-        $('body').addClass('.redb')
-    });
 })
 
