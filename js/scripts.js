@@ -25,7 +25,7 @@ $(document).ready(function () {
 
     // Button Scripts
     $('button').click(function () {
-        $('body').addClass('redb');
+        $('body').addClass('.redb')
     });
 })
 
